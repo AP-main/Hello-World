@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo heller werld
+echo Hello World
