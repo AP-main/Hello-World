@@ -1,2 +1,4 @@
 # Hello-World
-bijgsdlfsd sdffjsdfflkj
+c: gcc -c ./hello.c
+java: java hello.java
+js: Node hello.java
