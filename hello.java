@@ -1,4 +1,3 @@
-#!/usr/bin/java
 class Text
   {
   public static void main (Strings[] args) {
